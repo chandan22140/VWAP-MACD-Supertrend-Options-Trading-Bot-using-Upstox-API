@@ -38,12 +38,9 @@ A professional-grade intraday options trading algorithm built on the **Brahmastr
 
 ```
 
-brahmastra-algo/
-├── indicators/
-│   ├── macd.py
-│   ├── vwap.py
-│   └── supertrend.py
-├── main.py
+VWAP-MACD-Supertrend-Options-Trading-Bot-using-Upstox-API/
+
+├── brahmastra.py
 ├── requirements.txt
 └── README.md
 
